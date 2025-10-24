@@ -6,10 +6,10 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/AEROGU/tvchooser/mounted"
-	"github.com/AEROGU/tvchooser/tvclang"
 	"github.com/gdamore/tcell/v2"
 	"github.com/rivo/tview"
+	"github.com/samirm-git/tvchooser/mounted"
+	"github.com/samirm-git/tvchooser/tvclang"
 )
 
 const (

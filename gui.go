@@ -3,8 +3,8 @@ package tvchooser
 import (
 	"os"
 
-	"github.com/AEROGU/tvchooser/tvclang"
 	"github.com/rivo/tview"
+	"github.com/samirm-git/tvchooser/tvclang"
 )
 
 // FileChooser let the user selects a file and returns the selected file path.

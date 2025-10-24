@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/AEROGU/tvchooser/tvclang"
 	"github.com/dustin/go-humanize"
 	"github.com/rivo/tview"
+	"github.com/samirm-git/tvchooser/tvclang"
 )
 
 type fileView struct {

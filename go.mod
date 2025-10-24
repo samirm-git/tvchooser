@@ -1,4 +1,4 @@
-module github.com/AEROGU/tvchooser
+module github.com/samirm-git/tvchooser
 
 go 1.22.3
 
